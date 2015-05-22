@@ -399,8 +399,7 @@ hr {
     text-align: center;
     background: #3bbec0;
 	color: #fff;
-    -webkit-transition: background .3s ease-in-out;
-    transition: background .3s ease-in-out;
+   
 }
 .team-social a i{
 	text-align: center;
@@ -485,14 +484,13 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 	margin:0;
 	padding:0;
     display: block;
-	width: 40px;
+	width: 60px;
     height: 40px;
     line-height: 40px;
     text-align: center;
     background: #3bbec0;
 	color: #fff;
-    -webkit-transition: background .3s ease-in-out;
-    transition: background .3s ease-in-out;
+  
 }
 .company-social a i{
 	text-align: center;
